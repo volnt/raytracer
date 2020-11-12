@@ -19,6 +19,8 @@ Done
 $ feh image.png
 ```
 
+![Example](image.png)
+
 # Installing dependencies
 
 ```
